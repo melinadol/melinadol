@@ -18,7 +18,7 @@ I work where photogrammetry meets machine learning: 3D reconstruction, point-clo
 
 ### Publications
 
--M. Dolapsaki, D. Xenakis, “Digital Twin-Ready Representation of Enterprise Spaces through Integrated 3D Reconstruction Pipeline”, 14th IEEE International Conference on Cloud Networking (Cloudnet), 19-21 October 2026, Athens, Greece.
+-  M. Dolapsaki, D. Xenakis, “Digital Twin-Ready Representation of Enterprise Spaces through Integrated 3D Reconstruction Pipeline”, 14th IEEE International Conference on Cloud Networking (Cloudnet), 19-21 October 2026, Athens, Greece.
 
 -  A. Sotiropoulos, D. Xenakis, G. Kalpaktsoglou, I. Vittorakis, **M. Dolapsaki**, "On the resource consumption of XR-enabled Digital Twin Applications in the edge-cloud continuum," *IEEE NFV-SDN 2025*, Athens. [doi:10.1109/NFV-SDN66355.2025.11349544](https://doi.org/10.1109/NFV-SDN66355.2025.11349544)
 
