@@ -4,8 +4,8 @@
 
 I work where photogrammetry meets machine learning: 3D reconstruction, point-cloud processing and semantic understanding of indoor and outdoor environments for Digital Twin applications.
 
-- 🎓 **PhD candidate**, National and Kapodistrian University of Athens (2023–): *Machine Learning Techniques for 3D Environment Mapping and Object Detection with Applications to Digital Twins*
-- 🔬 **Researcher** in Horizon Europe / H2020 **MSCA Staff Exchanges** projects (SOVEREIGN, OPTIMIST)
+- 🎓 **PhD candidate**, National and Kapodistrian University of Athens (2024–): *Machine Learning Techniques for 3D Environment Mapping and Object Detection with Applications to Digital Twins*
+- 🔬 **Researcher** in Horizon Europe / H2020 **MSCA Staff Exchanges** projects (SOVEREIGN, OPTIMIST, EXARCH)
 - 🎓 **MSc** Computer Vision & Artificial Intelligence, University of West Attica
 - 📐 **Dipl.-Eng.** Rural, Surveying & Geoinformatics Engineering, National Technical University of Athens
 
